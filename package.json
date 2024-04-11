@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "dependencies": {
+    "statsig-react": "^1.34.0"
+  },
   "author": "",
   "license": "ISC"
 }
